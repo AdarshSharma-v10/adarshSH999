@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @adarshSH999
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Adarsh Sharma
+- 🎯 Software Engineer | Tech Wizard | Building Solutions with Code & Curiosity | Deliver Successful Projects |
+- 🌱 You dont have built it, or come to github to built it.
+- 💞️ Connect me to collaborate.
+  
 
 <!---
 adarshSH999/adarshSH999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
