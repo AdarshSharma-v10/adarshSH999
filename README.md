@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Adarsh Sharma (@adarshSH999)
+- 👋 Hi, I’m Adarsh Sharma 
 - 🎯 Software Engineer | Tech Wizard | Building Solutions with Code & Curiosity | Deliver Successful Projects |
-- 🌱 You dont have built it, or come to github to built it.
-- 💞️ Connect me to collaborate.
+- 🌱 You dont have built it.
+- 🚀 Connect me to collaborate.
   
 
 <!---
